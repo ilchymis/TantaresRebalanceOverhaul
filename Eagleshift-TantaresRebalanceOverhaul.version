@@ -1,0 +1,26 @@
+{
+  "NAME": "Eagleshift-TantaresRebalanceOverhaul",
+  "URL": "https://raw.githubusercontent.com/eagleshift/TantaresRebalanceOverhaul/master/Eagleshift-TantaresRebalanceOverhaul.version",
+  "PATH": "GameData/Eagleshift/TantaresRebalanceOverhaul",
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 1,
+    "PATCH": 0
+  },
+  "CHANGE_LOG_URL": "https://raw.githubusercontent.com/eagleshift/TantaresRebalanceOverhaul/v0.1.0/CHANGELOG.md",
+  "GITHUB": {
+    "USERNAME": "eagleshift",
+    "REPOSITORY": "TantaresRebalanceOverhaul",
+    "ALLOW_PRE_RELEASE": false
+  },
+  "KSP_VERSION": {
+    "MAJOR": 0,
+    "MINOR": 25,
+    "PATCH": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 0,
+    "MINOR": 24,
+    "PATCH": 0
+  }
+}

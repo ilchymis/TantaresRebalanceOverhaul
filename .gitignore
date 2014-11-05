@@ -1,0 +1,6 @@
+####################
+# Generic excludes #
+####################
+release/
+build/
+vendor/
